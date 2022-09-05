@@ -1,0 +1,14 @@
+.backgroundImage {
+    background-image: url("../images/nature.png");
+    height: 610px;
+    width: 1510px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    position: relative;
+}
+h1{
+   color:red;
+
+    
+}
